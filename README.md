@@ -91,3 +91,22 @@
 
 <br/>  
 
+
+<br/>
+
+<div align="center">
+<!--     <a href="https://paypal.me/youssefjoundi?country.x=MA&locale.x=fr_XC" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+            align="center"
+        />
+    </a> -->
+    <a href="https://www.buymeacoffee.com/aminipoyan" target="_blank" style="display: inline-block;">
+      <img
+           src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=poyanamini&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
+           align="center"
+           />
+    </a>
+</div>
+<br />
+
