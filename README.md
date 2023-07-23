@@ -66,7 +66,7 @@
 
 
 
-### Funny :D 
+### Just For Fun :D 
 <div align="center">  
   <img src="drawable/robatic.gif" align="center" style="width: 100%" />
 </div>
