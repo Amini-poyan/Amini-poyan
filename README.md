@@ -66,9 +66,9 @@
 
 
 
-### DevOps  
+### Funny :D 
 <div align="center">  
-  
+  <img src="drawable/robatic.gif" align="center" style="width: 100%" />
 </div>
 
 </td></tr></table>  
