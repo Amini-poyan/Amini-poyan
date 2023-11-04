@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Android_Tailanco.ir](https://tailanco.com/) & Iot_SMI new progect & [Android_Karyabishoma.ir](https://karyabishoma.ir/)
 
-- 🌱 I’m currently learning [Katlin_M3]([https://developer.android.com/jetpack/compose](https://m3.material.io/))
+- 🌱 I’m currently learning Kotlin [Kotlin_M3]([https://developer.android.com/jetpack/compose](https://m3.material.io/))
 
-- ❓ Ask me about anything related to Modern Android Developement and Iot
+- ❓ Ask me about anything related to Iot
 
 - 📫 How to reach me **Amini.poyan@gmail.com**
 
@@ -37,7 +37,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>
-<a href="https://figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /></a>
 <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="AndroidStudio" height="50" /></a>
 </div>
 
